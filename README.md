@@ -12,3 +12,10 @@ javac Server.java
 javac Client.java
 java Server
 java Client
+## 📸 Demo
+
+![Chat App Screenshot](chat-demo.png)
+## 💡 Project Highlights
+- Built using Java Socket Programming
+- Implemented multithreading for real-time communication
+- Designed a client-server architecture
